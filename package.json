@@ -1,0 +1,22 @@
+{
+  "name": "ip9x_homework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medyanenko/IP9X_homework.git"
+  },
+  "author": "Tanya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Medyanenko/IP9X_homework/issues"
+  },
+  "homepage": "https://github.com/Medyanenko/IP9X_homework#readme",
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  }
+}
